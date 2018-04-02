@@ -1,0 +1,17 @@
+[07-Mar-2018 23:52:16 UTC] Error Unknown column 'ninpo_' in 'field list' de la base de datos de WordPress para la consulta SELECT ninpo_
+[08-Mar-2018 00:08:57 UTC] PHP Fatal error:  Cannot redeclare class Vc_Manager in /home/ninpo/cristian.ninpo.cl/wp-content/plugins/js_composer/js_composer.php on line 33
+[08-Mar-2018 00:17:18 UTC] PHP Fatal error:  Cannot redeclare class Vc_Manager in /home/ninpo/cristian.ninpo.cl/wp-content/plugins/js_composer/js_composer.php on line 33
+[08-Mar-2018 00:17:23 UTC] PHP Fatal error:  Cannot redeclare class Vc_Manager in /home/ninpo/cristian.ninpo.cl/wp-content/plugins/js_composer/js_composer.php on line 33
+[08-Mar-2018 00:17:24 UTC] PHP Fatal error:  Cannot redeclare class Vc_Manager in /home/ninpo/cristian.ninpo.cl/wp-content/plugins/js_composer/js_composer.php on line 33
+[08-Mar-2018 00:31:40 UTC] MS_Aq_Resize.process() error: Image file does not exist (or is not an image): /home/ninpo/cristian.ninpo.cl/wp-content/uploads/2014/04/5226290116_4c46f5e023_o1.jpg
+[08-Mar-2018 00:31:40 UTC] MS_Aq_Resize.process() error: Image file does not exist (or is not an image): /home/ninpo/cristian.ninpo.cl/wp-content/uploads/2014/04/5787202365_5748348264_o1.jpg
+[08-Mar-2018 00:31:40 UTC] MS_Aq_Resize.process() error: Image file does not exist (or is not an image): /home/ninpo/cristian.ninpo.cl/wp-content/uploads/2014/04/5744683415_f3c781a3f8_o1.jpg
+[08-Mar-2018 00:31:40 UTC] MS_Aq_Resize.process() error: Image file does not exist (or is not an image): /home/ninpo/cristian.ninpo.cl/wp-content/uploads/2014/04/8470271681_35226b225c_k1.jpg
+[08-Mar-2018 00:31:40 UTC] MS_Aq_Resize.process() error: Image file does not exist (or is not an image): /home/ninpo/cristian.ninpo.cl/wp-content/uploads/2014/04/5226290116_4c46f5e023_o1.jpg
+[08-Mar-2018 00:31:40 UTC] MS_Aq_Resize.process() error: Image file does not exist (or is not an image): /home/ninpo/cristian.ninpo.cl/wp-content/uploads/2014/04/5787202365_5748348264_o1.jpg
+[08-Mar-2018 00:31:40 UTC] MS_Aq_Resize.process() error: Image file does not exist (or is not an image): /home/ninpo/cristian.ninpo.cl/wp-content/uploads/2014/04/5744683415_f3c781a3f8_o1.jpg
+[08-Mar-2018 00:31:40 UTC] MS_Aq_Resize.process() error: Image file does not exist (or is not an image): /home/ninpo/cristian.ninpo.cl/wp-content/uploads/2014/04/8470271681_35226b225c_k1.jpg
+[08-Mar-2018 00:31:40 UTC] MS_Aq_Resize.process() error: Image file does not exist (or is not an image): /home/ninpo/cristian.ninpo.cl/wp-content/uploads/2014/04/5226290116_4c46f5e023_o1.jpg
+[08-Mar-2018 00:31:40 UTC] MS_Aq_Resize.process() error: Image file does not exist (or is not an image): /home/ninpo/cristian.ninpo.cl/wp-content/uploads/2014/04/5787202365_5748348264_o1.jpg
+[08-Mar-2018 00:31:40 UTC] MS_Aq_Resize.process() error: Image file does not exist (or is not an image): /home/ninpo/cristian.ninpo.cl/wp-content/uploads/2014/04/5744683415_f3c781a3f8_o1.jpg
+[08-Mar-2018 00:31:40 UTC] MS_Aq_Resize.process() error: Image file does not exist (or is not an image): /home/ninpo/cristian.ninpo.cl/wp-content/uploads/2014/04/8470271681_35226b225c_k1.jpg
